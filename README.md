@@ -1,9 +1,9 @@
 # Cinema-management-api-springboot
-REST API for a cinema management system. It uses JWT for authentication and authorization based on roles (ADMIN and USER), which have their own distinct operations that can be performed for one of those roles.
+REST API for a cinema management application. It uses JWT for authentication and authorization based on roles (ADMIN and USER), which have their own distinct operations that can be performed for one of those roles.
 
 
 ## Cinema Management System API
-Welcome to the Ticket Cinema API, a RESTful web service for managing a cinema system. This API leverages JSON Web Tokens (JWT) for authentication and implements role-based authorization, distinguishing between ADMIN and USER roles. Each role comes with specific operations tailored to its responsibilities.
+Cinema management application is a RESTful web service for managing a cinema system. This API leverages JSON Web Tokens (JWT) for authentication and implements role-based authorization, distinguishing between ADMIN and USER roles. Each role comes with specific operations tailored to its responsibilities.
 
 ## Key Features
 
