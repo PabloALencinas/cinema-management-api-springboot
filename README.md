@@ -6,14 +6,19 @@ REST API for a cinema management system. It uses JWT for authentication and auth
 Welcome to the Ticket Cinema API, a RESTful web service for managing a cinema system. This API leverages JSON Web Tokens (JWT) for authentication and implements role-based authorization, distinguishing between ADMIN and USER roles. Each role comes with specific operations tailored to its responsibilities.
 
 ## Key Features
+
 . Authentication and Authorization
 . JWT Authentication: Secure authentication using JSON Web Tokens.
 . Role-Based Authorization: Two distinct roles, ADMIN and USER, each with its set of authorized operations.
+
 ## ADMIN Operations
+
 . Movie Management (CRUD): Full control over creating, reading, updating, and deleting movies in the system.
 . Cinemaroom Management (CRUD): Administrative capabilities for managing cinema rooms within the system.
 . Reservation Handling: The ability to manage reservations made by users or clients.
+
 ## USER Operations
+
 . View Movies and Showtimes: Access to a list of all available movies with their respective showtimes and cinema room details.
 . Reservation Creation: Ability for users to make reservations for their preferred movie, specifying the desired showtime and selecting seats within the cinema room.
 
