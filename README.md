@@ -17,11 +17,11 @@ Welcome to the Ticket Cinema API, a RESTful web service for managing a cinema sy
 . View Movies and Showtimes: Access to a list of all available movies with their respective showtimes and cinema room details.
 . Reservation Creation: Ability for users to make reservations for their preferred movie, specifying the desired showtime and selecting seats within the cinema room.
 
-##Getting Started
+## Getting Started
 To run the API locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/ticket-cinema-api.git
-Navigate to the project directory: cd ticket-cinema-api
-Configure the database connection in application.properties.
-Run the application in the TicketCinemaApiApplication Class
-Explore the API and enjoy managing your cinema system efficiently!
+. Clone the repository: git clone https://github.com/your-username/ticket-cinema-api.git
+. Navigate to the project directory: cd ticket-cinema-api
+. Configure the database connection in application.properties.
+. Run the application in the TicketCinemaApiApplication Class
+
