@@ -1,4 +1,4 @@
-# cinema-management-api-springboot
+# Cinema-management-api-springboot
 REST API for a cinema management system. It uses JWT for authentication and authorization based on roles (ADMIN and USER), which have their own distinct operations that can be performed for one of those roles.
 
 
